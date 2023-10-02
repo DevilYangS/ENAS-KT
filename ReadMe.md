@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This project is the source code of the paper entitled [**"Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"**]()
+This project is the source code of the paper entitled [*Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing*]()
 
 
 ## Usage
@@ -9,7 +9,7 @@ This project is the source code of the paper entitled [**"Evolutionary Neural Ar
 ```
 Step 1 is necessary, 
 Step 2~3 are too time-consuming, 
-you could directly go to step 4 after step 1, since we uploaded the pretrained model weights
+you could directly go to step 4 after step 1, since we uploaded the pretrained model weights, you can download the pretrained weights of supetnet from *Release*.
 
 ---------------------1. prepare dataset-------------------------
 (1) download EdNet and RAIEdNet2020 from the website;
