@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This project is the source code of the paper entitled [*Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing*]()
+This project is the source code of the paper entitled [*Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing*](https://arxiv.org/abs/2310.01180)
 
 
 ## Usage
