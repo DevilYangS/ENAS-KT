@@ -664,7 +664,7 @@ class Encoder_Block(nn.Module):
         #--------------
         # skip_out = out
         out = self.layer_norm2(out)
-        skip_out = out
+        skip_out = out + out1
         # out = self.ffn_en(out,NAS_coding[1])
         out = self.ffn_en(out+out1,NAS_coding[1])
         # out = self.ffn_en(torch.cat([out,out1],dim=-1))
